@@ -11,6 +11,10 @@ public class App {
         return a - b;
     }
 	
+	public int multiplica( int a, int b ) {
+        return a * b;
+    }
+	
 	public String print() {
         return "Vai planeta";
     }
