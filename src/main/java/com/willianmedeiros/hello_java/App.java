@@ -15,6 +15,10 @@ public class App {
         return a * b;
     }
 	
+	public int divisao( int a, int b ) {
+        return a / b;
+    }
+	
 	public String print() {
         return "Vai planeta";
     }
