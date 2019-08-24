@@ -23,7 +23,7 @@ public class AppTest  {
 	@Test
 	public void testa_se_esta_retornando_vai_planeta() {
 		App app = new App();
-		assertThat( app.print() ).isEqualTo("Vai planeta");
+		assertThat( app.print() ).isEqualTo("Vai planeta2");
 	}
 	
 }

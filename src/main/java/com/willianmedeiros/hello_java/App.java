@@ -20,6 +20,6 @@ public class App {
     }
 	
 	public String print() {
-        return "Vai planeta";
+        return "Vai planeta2";
     }
 }
