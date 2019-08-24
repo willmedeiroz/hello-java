@@ -16,6 +16,6 @@ public class App {
     }
 	
 	public String print() {
-        return "Vai planeta2";
+        return "Vai planeta22";
     }
 }
